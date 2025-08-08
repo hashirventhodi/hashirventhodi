@@ -65,31 +65,6 @@
 
 ---
 
-## 🏆 Professional Experience & Achievements
-
-### 🚀 **Senior Backend Engineer** | Automotive E-commerce Platform (2023 - Present)
-- **Leading backend architecture** for platform serving **270k+ users** with **50k+ concurrent requests/min**
-- **Managing team of 5+ engineers**, mentoring in Go, microservices, and system design
-- **Built AI-powered assistant** backend with **10k+ concurrent users** and **<200ms response time**
-- **Designed microservices architecture** reducing deployment coupling and improving scalability
-
-### 💻 **Software Engineer** | Automotive E-commerce Platform (2022 - 2023)  
-- **Scaled systems from 1k to 270k+ users** using Node.js and PostgreSQL optimization
-- **Reduced API response times by 45%** through Redis caching strategies
-- **Built data processing pipelines** handling **500k+ product records daily**
-
-### ⚡ **Backend Developer** | Digital Solutions Company (2021 - 2022)
-- **Adopted Go for high-performance development**, building concurrent data processing systems
-- **Implemented gRPC services** reducing inter-service latency by **60%**
-- **Led migration from monolithic to microservices** architecture
-
-### 🌱 **Junior Backend Developer** | Cloud Technology Company (2019 - 2021)
-- **Started backend engineering career** with Node.js and database design
-- **Built IoT backend systems** connecting **50+ industrial sites**
-- **Developed automated ETL processes** reducing manual work by **80%**
-
----
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hashirventhodi&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=hashirventhodi&theme=default&hide_border=false)<br/>
