@@ -1,17 +1,104 @@
-# 💫 About Me:
-🏗️ I'm currently working on<br><br>Building an AI builder open source platform to democratize AI development and make it accessible to developers of all skill levels<br><br>🤝 I'm looking to collaborate on<br><br>AI-related projects, machine learning applications, and AI tool development<br>Backend systems and infrastructure projects<br>Open source initiatives in the AI/ML space<br><br>🤝 I'm looking for help with<br><br>Connecting with developers and contributors who are passionate about AI and open source<br>Finding collaborators interested in building the future of AI development tools<br><br>🌱 I'm currently learning<br><br>Golang - Exploring its potential for high-performance backend systems<br>Rust - Diving into systems programming and memory safety<br>AI/ML - Staying current with the latest developments in artificial intelligence and machine learning<br><br>💬 Ask me about<br><br>AI development platforms and tools<br>Open source project management<br>Backend architecture and system design<br>Getting started with AI/ML development
+# 👋 Senior Backend Engineer | Scalable Systems Specialist
+
+**6+ years of backend engineering experience** | Currently **Senior Backend Engineer** | Specializing in **Go, microservices, and high-performance systems**
+
+🌐 **Portfolio**: [hashir.com](https://hashir.com) | 📍 **Location**: Bengaluru, India
+
+---
+
+## 🏗️ Currently Working On
+- **Leading backend architecture** for platform serving **270k+ users**
+- **Mentoring a team of 5+ engineers** in backend technologies and system design  
+- Building **high-performance microservices** handling **50k+ requests per minute**
+- Scaling **distributed systems** with **Go, gRPC, and event-driven architecture**
+
+## 🤝 Looking to Collaborate On
+- **Senior backend engineering roles** requiring scalable system expertise
+- **System architecture and design** for high-traffic applications
+- **Technical leadership opportunities** and team mentoring
+- **Complete solution delivery** when projects require end-to-end development
+- **Open source backend tools** and infrastructure projects
+
+## 🌱 Continuously Learning & Growing
+- **Advanced Go patterns** for distributed systems and performance optimization
+- **AI/LLM integration** for intelligent backend systems (OpenAI, Anthropic)
+- **Cloud architecture patterns** and multi-cloud strategies
+- **Team leadership** and technical mentoring best practices
+
+## 💬 Ask Me About
+- **Scalable backend architecture** and microservices design
+- **Go/Golang best practices** and high-performance development
+- **Database optimization** and caching strategies
+- **Team leadership** and technical mentoring
+- **Complete solution delivery** from APIs to user interfaces
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hashirventhodi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hashirventhodi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hashirventhodi@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+## 🌐 Let's Connect!
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://hashir.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hashirventhodi) [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/hashirventhodi) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hashirventhodi@gmail.com)
+
+**📧 Email**: hashirventhodi@gmail.com  
+**🌐 Portfolio**: [hashir.com](https://hashir.com)  
+**📍 Location**: Bengaluru, India  
+**💼 Open to**: Senior Backend Engineering roles worldwide 
+
+# 💻 Tech Stack
+
+## 🎯 Backend Core Expertise (Expert Level)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+## ☁️ Infrastructure & DevOps (Advanced Level)  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+
+## 🚀 Backend Frameworks & Tools
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+## 🛠️ Complete Solution Delivery (When Needed)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+
+## 🤖 AI & Modern Tech Integration  
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+
+## 🔧 Development Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
+---
+
+## 🏆 Professional Experience & Achievements
+
+### 🚀 **Senior Backend Engineer** | Automotive E-commerce Platform (2023 - Present)
+- **Leading backend architecture** for platform serving **270k+ users** with **50k+ concurrent requests/min**
+- **Managing team of 5+ engineers**, mentoring in Go, microservices, and system design
+- **Built AI-powered assistant** backend with **10k+ concurrent users** and **<200ms response time**
+- **Designed microservices architecture** reducing deployment coupling and improving scalability
+
+### 💻 **Software Engineer** | Automotive E-commerce Platform (2022 - 2023)  
+- **Scaled systems from 1k to 270k+ users** using Node.js and PostgreSQL optimization
+- **Reduced API response times by 45%** through Redis caching strategies
+- **Built data processing pipelines** handling **500k+ product records daily**
+
+### ⚡ **Backend Developer** | Digital Solutions Company (2021 - 2022)
+- **Adopted Go for high-performance development**, building concurrent data processing systems
+- **Implemented gRPC services** reducing inter-service latency by **60%**
+- **Led migration from monolithic to microservices** architecture
+
+### 🌱 **Junior Backend Developer** | Cloud Technology Company (2019 - 2021)
+- **Started backend engineering career** with Node.js and database design
+- **Built IoT backend systems** connecting **50+ industrial sites**
+- **Developed automated ETL processes** reducing manual work by **80%**
+
+---
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hashirventhodi&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=hashirventhodi&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hashirventhodi&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![](https://visitcount.itsvg.in/api?id=hashirventhodi&icon=0&color=0)](https://visitcount.itsvg.in)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🌟 Thanks for visiting! Let's build something amazing together.
+
+**Interested in scalable backend systems? Let's connect and discuss your next project!**
+
+[![](https://visitcount.itsvg.in/api?id=hashirventhodi&icon=0&color=0)](https://visitcount.itsvg.in)
