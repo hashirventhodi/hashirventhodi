@@ -2,7 +2,7 @@
 
 **6+ years of backend engineering experience** | Currently **Senior Backend Engineer** | Specializing in **Go, microservices, and high-performance systems**
 
-🌐 **Portfolio**: [hashir.com](https://hashir.com) | 📍 **Location**: Bengaluru, India
+🌐 **Portfolio**: [itsmehashir.com](https://itsmehashir.com) | 📍 **Location**: Bengaluru, India
 
 ---
 
