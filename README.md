@@ -7,7 +7,7 @@
 ---
 
 ## 🏗️ Currently Working On
-- **Leading backend architecture** for platform serving **270k+ users**
+- **Leading backend architecture** for platform serving **330k+ users**
 - **Mentoring a team of 5+ engineers** in backend technologies and system design  
 - Building **high-performance microservices** handling **50k+ requests per minute**
 - Scaling **distributed systems** with **Go, gRPC, and event-driven architecture**
