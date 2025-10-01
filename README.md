@@ -1,4 +1,4 @@
-# 👋 Senior Backend Engineer
+# 👋 Senior Backend Engineer | Scalable Systems Specialist
 
 **6+ years of backend engineering experience** | Currently **Senior Backend Engineer** | Specializing in **Go, microservices, and high-performance systems**
 
